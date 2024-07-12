@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "suggestions",
+  "info": {
+    "singularName": "suggestion",
+    "pluralName": "suggestions",
+    "displayName": "Suggestion"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sentences": {
+      "type": "json"
+    }
+  }
+}
